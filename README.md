@@ -11,4 +11,4 @@ This code can be broken down into three different tests: data preparation, data 
 Finally, basic stats method test to get insight from model and evaluate the model.
 
 ### Data Cleansing<br/>
-This code involeves: import library and dataset, filtering data, handling missing values, outliers and non-standard values.
+This code involves: import library and dataset, filtering data, handling missing values, outliers and non-standard values.
