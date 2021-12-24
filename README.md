@@ -9,3 +9,6 @@ This code can be broken down into three different tests: data preparation, data 
 ![1 2 3](https://user-images.githubusercontent.com/21137726/146682167-d01761d0-e6c4-4663-b4e9-8f194f31733c.png)
 
 Finally, basic stats method test to get insight from model and evaluate the model.
+
+### Data Cleansing<br/>
+This code involeves: import library and dataset, filtering data, handling missing values, outliers and non-standard values.
