@@ -12,7 +12,7 @@ Output of this case study is to produce a report with the following deliverables
 5. Supporting visualizations and key ﬁndings
 6. Top high-level content recommendations based on your analysis 
 
-For a presentation file, please read this [Google Slide](https://docs.google.com/presentation/d/1qlPk5SKCs_XeeN4hfxeb9LLocFPRPMik/edit?usp=sharing&ouid=111111385366582994599&rtpof=true&sd=true)
+For a presentation file, please read this [Google Slides](https://docs.google.com/presentation/d/1qlPk5SKCs_XeeN4hfxeb9LLocFPRPMik/edit?usp=sharing&ouid=111111385366582994599&rtpof=true&sd=true)
 
 Below some interesting insight from analysis.
 
