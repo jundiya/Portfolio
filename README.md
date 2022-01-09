@@ -15,4 +15,6 @@ As a part of Google Data Analytics Professional Certificate. This program consis
 
 Find the introduction about the case study [here](https://github.com/jundiya/Portfolio/tree/main/Bellabeat) or jump to code and markdown [here](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb)
 
-## B
+## Market Research and Recommendation and Visualization Technique for Business Decision Making
+
+One of subject learning through DQLAB using Python. 
