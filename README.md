@@ -17,4 +17,4 @@ Find the introduction about the case study [here](https://github.com/jundiya/Por
 
 ## Market Research and Recommendation and Visualization Technique for Business Decision Making
 
-One of subject learning through DQLAB using Python. 
+One of subject learning through DQLAB using Python. Find the code [here](https://github.com/jundiya/Portfolio/blob/main/BusinessDecisionResearch/Business%20Decision%20Research%20(Modified%20from%20DQLAB).py)
