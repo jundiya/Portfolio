@@ -13,7 +13,7 @@ As a part of Google Data Analytics Professional Certificate. This program consis
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
 
-Find the introduction about the case study [here](https://github.com/jundiya/Portfolio/tree/main/Bellabeat) or jump to code and markdown [here](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb)
+Find the introduction of the case study [here](https://github.com/jundiya/Portfolio/tree/main/Bellabeat) or jump to code and markdown [here](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb)
 
 ## Market Research and Recommendation and Visualization Technique for Business Decision Making
 
