@@ -2,5 +2,5 @@
 
 ## Case Study with R: How Can a Wellness Technology Company Play It Smart?<br/>
 
-This project is done through data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**. Find the code and markdown here
+This project is done through data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**. Find the code and markdown [here](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb)
 
