@@ -13,7 +13,7 @@ This program consists of 8 courses:
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
 
-Below is case study from this program.
+Below is the case study from this program.
 
 ### Bellabeat: Case Study with R
 
