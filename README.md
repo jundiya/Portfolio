@@ -15,7 +15,7 @@ This program consists of 8 courses:
 
 Below is the case study from this program.
 
-### Bellabeat: Case Study with R
+### 1. Bellabeat: Case Study with R
 
 In this case study, I perform many real-world tasks of a junior data analyst. From the scenario, Bellabeat’s cofounder asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy. 
 
