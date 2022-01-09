@@ -8,13 +8,11 @@ Output of this case study is to produce a report with the following deliverables
 1. A clear summary of the business task 
 2. A description of all data sources used
 3. Documentation of any cleaning or manipulation of data
-4. A summary of analysis
+4. [A summary of analysis](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb) (click this for code and markdown)
 5. Supporting visualizations and key ﬁndings
 6. Top high-level content recommendations based on your analysis 
 
 For a presentation file, please read this [Google Slide](https://docs.google.com/presentation/d/1qlPk5SKCs_XeeN4hfxeb9LLocFPRPMik/edit?usp=sharing&ouid=111111385366582994599&rtpof=true&sd=true)
-
-Code and markdown [here](https://github.com/jundiya/Portfolio/blob/main/Bellabeat/bellabeat-jupyter.ipynb)
 
 Below some interesting insight from analysis.
 
