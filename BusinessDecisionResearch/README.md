@@ -1,4 +1,4 @@
-### Market Research and Recommendation and Visualization Technique for Business Decision Making<br/>
+## Market Research and Recommendation and Visualization Technique for Business Decision Making<br/>
 This code can be broken down into three different tests: data preparation, data visualization, and basic stats method. Data preparation involves importing and cleansing data like datetime formatting and classify the churn customer. Understanding data through visualization is a part of exploration data, there are six visualization is made on this test. Some example of graph.<br/>
 1. Graph of Customer Acquisition by Year
 2. Graph of Average Transaction Amount by Year
