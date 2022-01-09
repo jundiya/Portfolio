@@ -1,4 +1,4 @@
-# Learning Python
+# Data Analytics Learning
 These will be my portfolio of subject learning or projects leading to Data Analytics.<br/>
 ### Market Research and Recommendation and Visualization Technique for Business Decision Making<br/>
 This code can be broken down into three different tests: data preparation, data visualization, and basic stats method. Data preparation involves importing and cleansing data like datetime formatting and classify the churn customer. Understanding data through visualization is a part of exploration data, there are six visualization is made on this test. Some example of graph.<br/>
