@@ -3,7 +3,7 @@ These will be my portfolio of subject learning or projects leading to Data Analy
 
 ## Bellabeat: Case Study with R
 
-As a part of Google Data Analytics Professional Certificate. This program consists of 8 course:
+As a part of Google Data Analytics Professional Certificate. This program consists of 8 courses:
 1. Foundations Data, Data, Everywhere
 2. Ask Question to Make Data-Driven Decision
 3. Prepare Data for Exploration
