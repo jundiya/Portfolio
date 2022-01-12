@@ -16,6 +16,8 @@ From the scenario, I'm a junior data analyst working in the marketing analyst te
 [1. Introduction to the case study](https://github.com/jundiya/Portfolio/tree/main/Cyclistic)<br/>
 [2. Jupyter notebook to do the data analysis](https://github.com/jundiya/Portfolio/blob/main/Cyclistic/cyclistic.ipynb)
 
+![Rides](https://user-images.githubusercontent.com/21137726/149086068-06edf961-034f-460f-b796-c87922e3fc2d.png)
+
 ## Market Research and Recommendation and Visualization Technique for Business Decision Making
 
 One of subject learning through DQLAB using Python. Find the code [here](https://github.com/jundiya/Portfolio/blob/main/BusinessDecisionResearch/Business%20Decision%20Research%20(Modified%20from%20DQLAB).py)
