@@ -10,3 +10,5 @@ This case study produce a report with the following deliverables:
 4. [A summary of your analysis](https://github.com/jundiya/Portfolio/blob/main/Cyclistic/cyclistic.ipynb)
 5. Supporting visualizations and key ﬁndings
 6. Your top three recommendations based on your analysis
+
+![Rides](https://user-images.githubusercontent.com/21137726/149086068-06edf961-034f-460f-b796-c87922e3fc2d.png)
