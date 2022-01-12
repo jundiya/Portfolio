@@ -12,7 +12,7 @@ In this case study, I performed many real-world tasks of a junior data analyst. 
 
 ## Cyclistic: How Does a Bike-Share Navigate Speedy Success?
 
-From the scenario, I'm a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes diﬀerently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But ﬁrst, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
+From the scenario, I was junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wanted to understand how casual riders and annual members use Cyclistic bikes diﬀerently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But ﬁrst, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 [1. Introduction to the case study](https://github.com/jundiya/Portfolio/tree/main/Cyclistic)<br/>
 [2. Jupyter notebook to do the data analysis](https://github.com/jundiya/Portfolio/blob/main/Cyclistic/cyclistic.ipynb)
