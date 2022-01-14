@@ -17,7 +17,7 @@ From the scenario, I was junior data analyst working in the marketing analyst te
 [1. Introduction to the case study](https://github.com/jundiya/Portfolio/tree/main/Cyclistic)<br/>
 [2. Jupyter notebook to do the data analysis](https://github.com/jundiya/Portfolio/blob/main/Cyclistic/cyclistic.ipynb)
 
-![Rides](https://user-images.githubusercontent.com/21137726/149086068-06edf961-034f-460f-b796-c87922e3fc2d.png)
+![Rides](https://user-images.githubusercontent.com/21137726/149545463-59acbc6c-7f8b-4bea-9970-ba97959c7769.png)
 
 ## Market Research and Recommendation and Visualization Technique for Business Decision Making
 
