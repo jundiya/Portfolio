@@ -13,4 +13,4 @@ This case study produce a report with the following deliverables:
 
 Below is the data visualization from analysis process.
 
-![Rides](https://user-images.githubusercontent.com/21137726/149086068-06edf961-034f-460f-b796-c87922e3fc2d.png)
+![Rides](https://user-images.githubusercontent.com/21137726/149545463-59acbc6c-7f8b-4bea-9970-ba97959c7769.png)
