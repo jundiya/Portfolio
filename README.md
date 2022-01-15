@@ -22,3 +22,5 @@ From the scenario, I was junior data analyst working in the marketing analyst te
 ## Market Research and Recommendation and Visualization Technique for Business Decision Making
 
 One of subject learning through DQLAB using Python. Find the code [here](https://github.com/jundiya/Portfolio/blob/main/BusinessDecisionResearch/Business_Decision_Research.ipynb)
+
+![1 2 3](https://user-images.githubusercontent.com/21137726/146682167-d01761d0-e6c4-4663-b4e9-8f194f31733c.png)
