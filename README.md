@@ -1,4 +1,4 @@
-# Data Analytics Learning
+# Data Analytics
 These will be my portfolio of subject learning or projects leading to Data Analytics.
 
 ## Bellabeat: How Can a Wellness Technology Company Play It Smart? 
