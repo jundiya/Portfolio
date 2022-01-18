@@ -1,5 +1,5 @@
 # Data Analytics
-A data analytics portfolio involve subject learnings, case studies, and side-projects.
+A data analytics portfolio involves subject learnings, case studies, and side-projects.
 
 ## Bellabeat: How Can a Wellness Technology Company Play It Smart? 
 
