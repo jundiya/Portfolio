@@ -1,5 +1,5 @@
 # Data Analytics
-These will be my portfolio of data analytics involves subject learnings, case studies, and projects.
+These will be my portfolio of data analytics involve subject learnings, case studies, and projects.
 
 ## Bellabeat: How Can a Wellness Technology Company Play It Smart? 
 
