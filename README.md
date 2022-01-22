@@ -26,3 +26,8 @@ Using Python, I did churn analysis as market research project from one of sport 
 ![1 2 3](https://user-images.githubusercontent.com/21137726/146682167-d01761d0-e6c4-4663-b4e9-8f194f31733c.png)
 
 ## SQL Data Exploration: Stores Analysis
+
+This project want to answer three question using SQL and database named "stores":
+* Question 1: Which products should we order more of or less of?
+* Question 2: How should we tailor marketing and communication strategies to customer behaviors?
+* Question 3: How much can we spend on acquiring new customers?
