@@ -30,7 +30,7 @@ S18_3482	0.1
 S32_2206	0.1
 S700_2466	0.1
 ```
-#### Product performance:
+#### Products performance:
 ```
 product_code	performance
 S18_3232	276839.98
@@ -44,7 +44,7 @@ S18_2238	142530.63
 S18_1749	140535.6
 S12_2823	135767.03
 ```
-#### Product priority:
+#### Priority products:
 ```
 product_code	product_name				name	type		performance
 S12_2823	2002 Suzuki XREO			Motorcycles		135767.03
