@@ -1,3 +1,5 @@
+## SQL Data Exploration: Stores Analysis
+
 ### QUESTION:
 
 * Question 1: Which products should we order more of or less of?
@@ -70,13 +72,38 @@ For example, we could organize some events to drive loyalty for the VIPs and lau
 
 ![Diagram_3](https://user-images.githubusercontent.com/21137726/150624424-0c3e8814-7d9f-44e8-8687-0db7a107eb46.png)
 
-**3. How Much Can We Spend on Acquiring New Customers?**
+#### Top five VIP customers:
+```
+last_name	first_name	city		country		profit
+Freyre		Diego 		Madrid		Spain		326519.66
+Nelson		Susan		San Rafael	USA		236769.39
+Young		Jeff		NYC		USA		72370.09
+Ferguson	Peter		Melbourne	Australia	70311.07
+Labrune		Janine 		Nantes		France		60875.3
+```
+#### Top five least-engaged customers:
+```
+last_name	first_name	city		country		profit
+Young		Mary		Glendale	USA		2610.87
+Taylor		Leslie		Brickhaven	USA		6586.02
+Ricotti		Franco		Milan		Italy		9532.93
+Schmitt		Carine 		Nantes		France		10063.8
+Smith		Thomas 		London		UK		10868.04
+```
+
+### 3. How Much Can We Spend on Acquiring New Customers?
 
 Before answer the third question, we can find the number of new customers arriving each month. That way we can check if it's worth spending money on acquiring new customers.
 
 To determine how much money we can spend acquiring new customers, we can compute the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. We can then determine how much we can spend on marketing.
 
-**CONCLUSION:**
+#### Customer Lifetime Value
+```
+ltv
+39039.5943877551
+```
+
+### CONCLUSION:
 
 * **Question 1: Which products should we order more of or less of?**
 
