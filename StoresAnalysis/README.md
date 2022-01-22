@@ -39,14 +39,14 @@ To determine how much money we can spend acquiring new customers, we can compute
 
 **CONCLUSION:**
 
-●	Question 1: Which products should we order more of or less of?
+* Question 1: Which products should we order more of or less of?
 
 The query shows product types like classic cars are our priority due to its low stocks, especially product S12_2823 represents 2002 Suzuki XERO as one of top ten product performance.
 
-●	Question 2: How should we tailor marketing and communication strategies to customer behaviors?
+* Question 2: How should we tailor marketing and communication strategies to customer behaviors?
 
 After generating how much profit each customer generates, we start to categorize them into top five VIP customers and top five least-engaged customers. We could organize some events to drive loyalty for the VIPs and launch a campaign for the less engaged.
 
-●	Question 3: How much can we spend on acquiring new customers?
+* Question 3: How much can we spend on acquiring new customers?
 
 We can compute the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. From this data, we earn 39039.59 dollars from the customer.
