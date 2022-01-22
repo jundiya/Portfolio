@@ -24,3 +24,5 @@ A data analytics portfolio involves subject learnings, case studies, and side-pr
 Using Python, I did churn analysis as market research project from one of sport store branch called DQLAB Sport Center. This store encountered a problem with decreased number of customers. As junior data analyst, I was asked to analyze the transaction data from 2013 until 2019, identified trends and relationship, and communicated the insight within the data. [Here is the code](https://github.com/jundiya/Portfolio/blob/main/BusinessDecisionResearch/Business_Decision_Research.ipynb)
 
 ![1 2 3](https://user-images.githubusercontent.com/21137726/146682167-d01761d0-e6c4-4663-b4e9-8f194f31733c.png)
+
+## SQL Data Exploration: Stores Analysis
