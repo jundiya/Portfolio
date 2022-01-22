@@ -48,7 +48,7 @@ S12_2823	135767.03
 ```
 #### Priority products:
 ```
-product_code	product_name				name	type		performance
+product_code	product_name				type			performance
 S12_2823	2002 Suzuki XREO			Motorcycles		135767.03
 S18_3482	1976 Ford Gran Torino			Classic Cars		121890.6
 S18_1984	1995 Honda Civic			Classic Cars		119050.95
