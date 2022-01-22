@@ -14,7 +14,7 @@ SELECT productCode AS product_code, SUM(quantityOrdered * priceEach) AS performa
  ORDER BY performance DESC
  LIMIT 10
  
--- Product prioritize using CTE
+-- Priority product using CTE
 WITH
 product_low_stock AS (
 SELECT a.productCode, ROUND(SUM(a.quantityOrdered)*1.0/b.quantityInStock,2) AS low_stock
